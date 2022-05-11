@@ -1,7 +1,6 @@
 # Charades
 
-Currently under development. 
-Version 1.0
+[DISCONTINUED]
 
 ## Overview
 - [X] Loading screen applied while obtaining assets
